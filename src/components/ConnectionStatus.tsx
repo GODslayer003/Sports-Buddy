@@ -50,7 +50,7 @@ export function ConnectionStatus() {
         className="flex items-center gap-2"
       >
         <Wifi className="w-3 h-3" />
-        <span>Backend Connected</span>
+        <span>Connected</span>
       </Badge>
     </div>
   );
